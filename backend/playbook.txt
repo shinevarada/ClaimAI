@@ -1,0 +1,12 @@
+High Risk Policyholders:
+- Trigger manual fraud investigation
+- Request additional claim documents
+- Escalate to risk review team
+
+Medium Risk Policyholders:
+- Monitor claim behavior
+- Validate policy consistency
+
+Low Risk Policyholders:
+- Fast-track claim approvals
+- Maintain engagement
